@@ -1,0 +1,2 @@
+# Simple_Circuit_Characteristic_Tester
+FPGA Cyclone IV EP4CE40F23C8 与 Nios II软核实现Simple_Circuit_Characteristic_Tester(简易电路特性测试仪)
